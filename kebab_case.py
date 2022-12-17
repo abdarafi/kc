@@ -18,5 +18,3 @@ kebab_case = to_kebab_case(string)
 
 # Print the result
 print(kebab_case)
-
-sys.argv[1]
